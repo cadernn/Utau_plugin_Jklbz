@@ -1,0 +1,4 @@
+2014/11/11 0.4.2253
+1.Use Win8UI
+2.No Area Defination
+3.More useful Function

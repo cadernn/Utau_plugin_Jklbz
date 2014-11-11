@@ -1,3 +1,3 @@
-﻿Utau_plugin_Jklbz
+Utau_plugin_Jklbz
 =================
-Enjoy urself
+对Jklex音源创建的工程进行快速填词

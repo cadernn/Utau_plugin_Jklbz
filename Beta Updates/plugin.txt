@@ -1,2 +1,0 @@
-name=½ğ¿ÀÀ¬²¥ÖÖ
-execute=jkl.exe
