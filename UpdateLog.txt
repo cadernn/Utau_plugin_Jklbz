@@ -1,1 +1,4 @@
-由于操作不慎，导致源码丢失，现在Github上配布的版本是之前保存在服务器上的，有部分BUG尚未修复，等到有时间用C++重写。
+2014/11/11 0.4.2253
+1.Use Win8UI
+2.No Area Defination
+3.More useful Function
