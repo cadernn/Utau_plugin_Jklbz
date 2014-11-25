@@ -2,13 +2,14 @@
 =================
 Enjoy urself
 =================
+UpdateLog
 0.4.0000
-source in unknown serve
-
+从某个备用服务器上找到了这份源码，之前的被我误删了T.T
 0.4.2253
-Win8 UI
-fix bugs
-
+自豪地使用了Win8 UI
+修复了一些BUG
 0.4.3316
-fix bugs
-more smoothly running speed
+修复了一些BUG
+加快了运行速度
+0.4.4330
+加入一个小功能，填词框内输入中文-点击按钮-可使中文转换为拼音并换行，【因为我太懒了重置一个东西方便我不用打字】，虽然跟金坷垃有点无关，但希望能帮到人ww
